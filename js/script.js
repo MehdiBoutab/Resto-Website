@@ -52,7 +52,7 @@ let swiper = new Swiper(".home-slider", {
   loop: true,
 });
 
-let swiper = new Swiper(".review-slider", {
+let swipeer = new Swiper(".review-slider", {
   spaceBetween: 20,
   centeredSlides: true,
   autoplay: {
